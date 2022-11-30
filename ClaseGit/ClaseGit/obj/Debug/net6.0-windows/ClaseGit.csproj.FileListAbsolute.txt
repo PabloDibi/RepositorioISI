@@ -1,0 +1,17 @@
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\bin\Debug\net6.0-windows\ClaseGit.exe
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\bin\Debug\net6.0-windows\ClaseGit.deps.json
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\bin\Debug\net6.0-windows\ClaseGit.runtimeconfig.json
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\bin\Debug\net6.0-windows\ClaseGit.dll
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\bin\Debug\net6.0-windows\ClaseGit.pdb
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.csproj.AssemblyReference.cache
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.Form1.resources
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.csproj.GenerateResource.cache
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.AssemblyInfoInputs.cache
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.AssemblyInfo.cs
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.csproj.CoreCompileInputs.cache
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.dll
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\refint\ClaseGit.dll
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.pdb
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ClaseGit.genruntimeconfig.cache
+C:\Users\Delider\Desktop\Facultad\Ingenieria de Soft\Mi-primer-repositorio-de-git\ClaseGit\ClaseGit\obj\Debug\net6.0-windows\ref\ClaseGit.dll
