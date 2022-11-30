@@ -9,8 +9,8 @@ namespace ClaseGit
 
         private void label1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hola!";
-            label2.Text = "Como estan ?";
+            label1.Text = "HEY!";
+            label2.Text = "TODO BIEN ?";
         }
     }
 }
